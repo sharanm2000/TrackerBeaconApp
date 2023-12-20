@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ambulance_Waypoint</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAObJnmGfazdZqRjIwttNVolxK3ObIfHoI</string>
+</resources>

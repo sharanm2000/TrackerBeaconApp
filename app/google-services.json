@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731993934508",
+    "firebase_url": "https://ambulancetracker-1c2e4.firebaseio.com",
+    "project_id": "ambulancetracker-1c2e4",
+    "storage_bucket": "ambulancetracker-1c2e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731993934508:android:72b8339556cafb81d9ad09",
+        "android_client_info": {
+          "package_name": "com.ram.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731993934508-lljf20aeffvpgqjklcgfr25jd09jbksj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJP21amRhlzWTxoyT4SsD04C7Dsy7QfAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731993934508-lljf20aeffvpgqjklcgfr25jd09jbksj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
